@@ -96,7 +96,7 @@ To add support for another dataset:
 ## 📸 Preview
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/a94b352f-2dfa-43cc-941b-4a75e497e88c)" width="600" alt="SmartQuery Agent Screenshot"/>
+  <img src="![image](https://github.com/user-attachments/assets/681933e7-55b9-4142-98ab-5d2072626de0)" alt="SmartQuery Agent Screenshot"/>
 </p>
 
 ---
